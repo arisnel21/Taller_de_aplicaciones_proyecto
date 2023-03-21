@@ -1,0 +1,10 @@
+.cuerpo{
+    background-image: url(degrade.jpg);
+    background-size: cover;/* permite que la imagen ocupe por completo el viewport*/
+}
+.back_login{
+    border: 1px solid black; 
+    margin: 200px,300px,0px, 300px ;    
+    padding: 50px;
+}
+
